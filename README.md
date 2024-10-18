@@ -1,6 +1,4 @@
 # Automated Resume Ranking System
-![Alt text](images/your_image_name.png) <!-- Replace this path with the actual image path in your repo -->
-
 ## Project Overview
 The **Automated Resume Ranking System** is an AI-powered application designed to evaluate and rank resumes based on their relevance to job descriptions. Using advanced NLP techniques and machine learning models, this system automates the hiring process while incorporating AIOps, MLOps, and LLMops frameworks for enhanced scalability, reliability, and maintainability.
 
